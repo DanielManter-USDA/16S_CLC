@@ -1,0 +1,41 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Manter
+  given-names: Daniel
+  orcid: https://orcid.org/0000-0001-7729-7197
+- family-names: Reardon
+  given-names: Catherine
+  orcid: https://orcid.org/0000-0002-2195-1214
+- family-names: Ashworth
+  given-names: Amanda
+- family-names: Ibekwe
+  given-names: Abasiofiok
+- family-names: Lehman
+  given-names: Michael
+- family-names: Maul
+  given-names: Jude
+- family-names: Miller
+  given-names: Daniel
+- family-names: Creed
+  given-names: Timothy
+- family-names: Ewing
+  given-names: Patrick
+- family-names: Park
+  given-names: Stanley
+- family-names: Ducey
+  given-names: Thomas
+- family-names: Tyler
+  given-names: Heather
+- family-names: Veum
+  given-names: Kristen
+- family-names: Weyers
+  given-names: Sharon
+- family-names: Knaebel
+  given-names: David
+title: Cross-Laboratory Comparison of Bacterial 16S rRNA Communities in Soil Using Nanopore Sequencing
+version: v.1.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11521684
+date-released: 2024-06-07
